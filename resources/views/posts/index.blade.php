@@ -23,7 +23,7 @@
 				<thead>
 					<th>#</th>
 					<th>Title</th>
-					<th>Blog/th>
+					<th>Blog</th>
 					<th>Created At</th>
 					<th></th>
 				</thead>
